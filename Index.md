@@ -2,8 +2,9 @@
 
 Independent Researcher & Author  
 Columbus, Ohio  
-[Contact Email] | [Link to PhilPapers/ORCID]
-
+benrubixcubed@gmail.com ORCID|0009-0005-4568-8800
+https://philpapers.org/rec/RUBATT-4
+https://zenodo.org/records/23613297
 ---
 
 ## Biography
