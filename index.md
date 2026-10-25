@@ -14,10 +14,10 @@
     "jobTitle": "Independent Cognitive Science & Epistemology Researcher",
     "description": "Independent researcher operating at the intersection of analytic epistemology, philosophy of mind, and computational cognitive modeling using Active Inference and the Free Energy Principle.",
     "sameAs": [
-      "https://orcid.org",
-      "https://philpapers.org",
-      "https://philpapers.org",
-      "https://facebook.com"
+      "https://orcid.org**",
+      "https://philpapers.org**",
+      "https://philpapers.org**",
+      "https://facebook.com**"
     ],
     "publishingPrinciples": [
       {
