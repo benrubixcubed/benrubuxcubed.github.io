@@ -23,12 +23,12 @@
       {
         "@type": "ScholarlyArticle",
         "name": "A Hierarchical Thermodynamic Taxonomy of Doxastic States: An Active Inference Model, Phenomenological Scaling Architecture, and Calibrated Experimental Paradigm",
-        "url": "https://philpapers.org"
+        "url": "https://philpapers.org**"
       },
       {
         "@type": "ScholarlyArticle",
         "name": "An Active Inference Model of Cognitive States and Epistemic Parity",
-        "url": "https://philpapers.org"
+        "url": "https://philpapers.org**"
       }
     ]
   }
