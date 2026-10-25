@@ -11,25 +11,36 @@
       "@type": "Place",
       "name": "Columbus, Ohio"
     },
-    "jobTitle": "Independent Cognitive Science & Epistemology Researcher",
-    "description": "Independent researcher operating at the intersection of analytic epistemology, philosophy of mind, and computational cognitive modeling using Active Inference and the Free Energy Principle.",
+    "jobTitle": "Independent Cognitive Science Researcher & Business Owner",
+    "description": "Independent researcher operating at the intersection of analytic epistemology and active inference, alongside managing local Columbus business entities.",
     "url": "https://benjaminruby.com",
     "sameAs": [
       "https://orcid.org",
       "https://philpeople.org",
-      "https://philarchive.org",
       "https://github.com"
     ],
-    "publishingPrinciples": [
+    "owns": [
       {
-        "@type": "ScholarlyArticle",
-        "name": "A Hierarchical Thermodynamic Taxonomy of Doxastic States: An Active Inference Model, Phenomenological Scaling Architecture, and Calibrated Experimental Paradigm",
-        "url": "https://philpapers.org"
+        "@type": "LocalBusiness",
+        "name": "Ruby Home and Hauling Services, Inc.",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3401 Maize Rd",
+          "addressLocality": "Columbus",
+          "addressRegion": "OH",
+          "postalCode": "43224"
+        }
       },
       {
-        "@type": "ScholarlyArticle",
-        "name": "An Active Inference Model of Cognitive States and Epistemic Parity",
-        "url": "https://philpapers.org"
+        "@type": "LocalBusiness",
+        "name": "Ben and Bri's Black RAVE Boutique LLC",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3401 Maize Rd",
+          "addressLocality": "Columbus",
+          "addressRegion": "OH",
+          "postalCode": "43224"
+        }
       }
     ]
   }
@@ -37,31 +48,32 @@
 </script>
 
 # Benjamin Ruby
-### Independent Cognitive Science & Epistemology Researcher
-**Columbus, Ohio**
+### Columbus, Ohio
+**Researcher & Entrepreneur**
 
-I am an independent researcher operating at the intersection of analytic epistemology, philosophy of mind, and computational cognitive modeling. My work applies **Active Inference** and the **Free Energy Principle (FEP)** to explore the underlying thermodynamic architectures of belief, disbelief, and the suspension of judgment.
-
----
-
-### 🧠 Core Research Focus
-* **Formal Epistemology:** Modeling doxastic states as active, energy-bounded biological mechanisms rather than abstract logic gates.
-* **The Free Energy Principle:** Applying variational free energy minimization frameworks to complex human cognitive configurations.
-* **Epistemic Parity & Neutrality:** Examining the distinct metabolic and prefrontal workloads required to systematically hold a suspension of judgment.
+Welcome to my central portal. I manage computational cognitive science research alongside local commercial operations in Columbus, Ohio.
 
 ---
 
-### 📄 Research Publications & Manuscripts
-* **A Hierarchical Thermodynamic Taxonomy of Doxastic States**  
-  *An Active Inference Model, Phenomenological Scaling Architecture, and Calibrated Experimental Paradigm.*  
-  [Read on PhilPapers](https://philpapers.org)
-* **An Active Inference Model of Cognitive States and Epistemic Parity**  
-  *Investigating the metabolic baselines of active suspension of judgment.*  
-  [Read on PhilPapers](https://philpapers.org)
+### 🧠 Academic Research Focus
+I operate as an independent researcher at the intersection of analytic epistemology, philosophy of mind, and computational cognitive modeling. My theoretical work applies **Active Inference** and the **Free Energy Principle (FEP)** to explore the thermodynamic workloads underlying belief configurations and prefrontal metabolic states.
+
+* **A Hierarchical Thermodynamic Taxonomy of Doxastic States** | [Read on PhilPapers](https://philpapers.org)
+* **An Active Inference Model of Cognitive States and Epistemic Parity** | [Read on PhilPapers](https://philpapers.org)
+
+---
+
+### 💼 Commercial Entities & Business Operations
+Outside of academic modeling, I direct local service and retail operations registered in the state of Ohio:
+
+* **Ruby Home and Hauling Services, Inc.**  
+  *Residential junk removal, debris cleanouts, dumpster rentals, and complete handyman/property maintenance solutions.*
+* **Ben and Bri's Black RAVE Boutique LLC**  
+  *Active Ohio domestic entity registered under Charter #5658682.*
 
 ---
 
 ### 🌐 Digital Directories
-* [ORCID iD](https://orcid.org)
+* [ORCID Academic Registry](https://orcid.org)
 * [PhilPeople Profile](https://philpeople.org)
 * [GitHub Profile](https://github.com)
