@@ -1,49 +1,54 @@
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": "ProfilePage",
-  "mainEntity": {
-    "@type": "Person",
-    "name": "Benjamin Ruby",
-    "givenName": "Benjamin",
-    "familyName": "Ruby",
-    "homeLocation": {
-      "@type": "Place",
-      "name": "Columbus, Ohio"
-    },
-    "jobTitle": "Independent Cognitive Science Researcher & Business Owner",
-    "description": "Independent researcher operating at the intersection of analytic epistemology and active inference, alongside managing local Columbus business entities.",
-    "url": "https://benjaminruby.com",
-    "sameAs": [
-      "https://orcid.org",
-      "https://philpeople.org",
-      "https://github.com"
-    ],
-    "owns": [
-      {
-        "@type": "LocalBusiness",
-        "name": "Ruby Home and Hauling Services, Inc.",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "3401 Maize Rd",
-          "addressLocality": "Columbus",
-          "addressRegion": "OH",
-          "postalCode": "43224"
-        }
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://benjaminruby.com",
+      "name": "Benjamin Ruby",
+      "alternateName": "Benjamin L. Ruby",
+      "jobTitle": "Independent Researcher & Entrepreneur",
+      "description": "Independent researcher specializing in computational cognitive science, active inference, and neuroepistemology, alongside local commercial operations in Columbus, Ohio.",
+      "url": "https://benjaminruby.com",
+      "email": "benrubuxcubed@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Columbus",
+        "addressRegion": "OH",
+        "addressCountry": "US"
       },
-      {
-        "@type": "LocalBusiness",
-        "name": "Ben and Bri's Black RAVE Boutique LLC",
-        "address": {
-          "@type": "PostalAddress",
-          "streetAddress": "3401 Maize Rd",
-          "addressLocality": "Columbus",
-          "addressRegion": "OH",
-          "postalCode": "43224"
+      "sameAs": [
+        "https://orcid.org",
+        "https://zenodo.org/records/23613297",
+        "https://philpapers.org/rec/RUBATT-4",
+        "https://philpeople.org",
+        "https://github.com"
+      ],
+      "worksFor": [
+        {
+          "@type": "Organization",
+          "name": "Ruby Home and Hauling Services, Inc."
         }
+      ]
+    },
+    {
+      "@type": "LocalBusiness",
+      "@id": "https://benjaminruby.com",
+      "name": "Ruby Home and Hauling Services, Inc.",
+      "description": "Residential junk removal, debris cleanouts, dumpster rentals, and complete handyman/property maintenance solutions in Columbus, Ohio.",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "3401 Maize Rd",
+        "addressLocality": "Columbus",
+        "addressRegion": "OH",
+        "postalCode": "43224",
+        "addressCountry": "US"
+      },
+      "founder": {
+        "@id": "https://benjaminruby.com"
       }
-    ]
-  }
+    }
+  ]
 }
 </script>
 
