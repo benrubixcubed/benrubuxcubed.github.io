@@ -1,84 +1,28 @@
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Person",
-      "@id": "https://benjaminruby.com",
-      "name": "Benjamin Ruby",
-      "alternateName": "Benjamin L. Ruby",
-      "jobTitle": "Independent Researcher & Entrepreneur",
-      "description": "Independent researcher specializing in computational cognitive science, active inference, and neuroepistemology, alongside local commercial operations in Columbus, Ohio.",
-      "url": "https://benjaminruby.com",
-      "email": "benrubuxcubed@gmail.com",
-      "address": {
-        "@type": "PostalAddress",
-        "addressLocality": "Columbus",
-        "addressRegion": "OH",
-        "addressCountry": "US"
-      },
-      "sameAs": [
-        "https://orcid.org",
-        "https://zenodo.org/records/23613297",
-        "https://philpapers.org/rec/RUBATT-4",
-        "https://philpeople.org",
-        "https://github.com"
-      ],
-      "worksFor": [
-        {
-          "@type": "Organization",
-          "name": "Ruby Home and Hauling Services, Inc."
-        }
-      ]
-    },
-    {
-      "@type": "LocalBusiness",
-      "@id": "https://benjaminruby.com",
-      "name": "Ruby Home and Hauling Services, Inc.",
-      "description": "Residential junk removal, debris cleanouts, dumpster rentals, and complete handyman/property maintenance solutions in Columbus, Ohio.",
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "3401 Maize Rd",
-        "addressLocality": "Columbus",
-        "addressRegion": "OH",
-        "postalCode": "43224",
-        "addressCountry": "US"
-      },
-      "founder": {
-        "@id": "https://benjaminruby.com"
-      }
-    }
-  ]
-}
-</script>
-
 # Benjamin Ruby
-### Columbus, Ohio
-**Researcher & Entrepreneur**
-
-Welcome to my central portal. I manage computational cognitive science research alongside local commercial operations in Columbus, Ohio.
+**Independent Researcher** | Computational Cognitive Science, Philosophy of Mind, & Analytic Epistemology
+Columbus, Ohio
 
 ---
 
-### 🧠 Academic Research Focus
-I operate as an independent researcher at the intersection of analytic epistemology, philosophy of mind, and computational cognitive modeling. My theoretical work applies **Active Inference** and the **Free Energy Principle (FEP)** to explore the thermodynamic workloads underlying belief configurations and prefrontal metabolic states.
-
-* **A Hierarchical Thermodynamic Taxonomy of Doxastic States** | [Read on PhilPapers](https://philpapers.org)
-* **An Active Inference Model of Cognitive States and Epistemic Parity** | [Read on PhilPapers](https://philpapers.org)
+## 🌐 Connect with Me
+* [**Connect on Facebook**](https://facebook.com)
 
 ---
 
-### 💼 Commercial Entities & Business Operations
-Outside of academic modeling, I direct local service and retail operations registered in the state of Ohio:
+## 🧠 Research Focus & Cognitive Specialties
+My academic modeling and research bridge cognitive architectures, philosophy, and neuroscience principles through several key theoretical frameworks:
 
-* **Ruby Home and Hauling Services, Inc.**  
-  *Residential junk removal, debris cleanouts, dumpster rentals, and complete handyman/property maintenance solutions.*
-* **Ben and Bri's Black RAVE Boutique LLC**  
-  *Active Ohio domestic entity registered under Charter #5658682.*
+* **Active Inference & The Free Energy Principle (FEP):** Applying neuro-computational frameworks to map how the brain and nervous system dynamically minimize uncertainty.
+* **Prefrontal Metabolic States:** Investigating the complex thermodynamic workloads that underlie belief configurations and how they relate directly to metabolic states within the prefrontal cortex.
+
+### Selected Theoretical Publications
+* *A Hierarchical Thermodynamic Taxonomy of Doxastic States*
+* *An Active Inference Model of Cognitive States and Epistemic Parity*
 
 ---
 
-### 🌐 Digital Directories
-* [ORCID Academic Registry](https://orcid.org)
-* [PhilPeople Profile](https://philpeople.org)
-* [GitHub Profile](https://github.com)
+## 💼 Business Ventures & Operations
+Alongside my specialized research, I own and operate local commercial ventures serving the Columbus, Ohio community:
+
+* **Ruby Home and Hauling Services, Inc.** – Professional home management, organization, and hauling solutions.
+* **Ben and Bri's Black RAVE Boutique LLC** – Specialized boutique and apparel retail.
