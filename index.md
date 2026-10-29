@@ -1,3 +1,35 @@
+# Benjamin Ruby
+**Independent Researcher** | Computational Cognitive Science, Philosophy of Mind, & Analytic Epistemology  
+**Commercial Operations Manager** | Columbus, Ohio
+
+---
+
+## Biography & Professional Overview
+Benjamin Ruby is an independent researcher and business operations manager based in Columbus, Ohio. Combining localized commercial management with theoretical computational neuroscience and epistemology, his work establishes cross-disciplinary frameworks bridging cognitive architectures and local business ventures.
+
+### Academic Research & Theoretical Focus
+As an independent researcher in cognitive science and the philosophy of mind, Benjamin's work focuses on the mechanics of belief configurations, predictive processing, and neuro-computational modeling:
+* **Active Inference & The Free Energy Principle (FEP):** Utilizing computational frameworks to map how biological neural systems dynamically minimize environmental uncertainty.
+* **Prefrontal Metabolic States:** Investigating the complex energetic and metabolic workloads underpinning doxastic and belief configurations within the prefrontal cortex.
+* **Selected Theoretical Publications:** 
+  * *A Hierarchical Thermodynamic Taxonomy of Doxastic States*
+  * *An Active Inference Model of Cognitive States and Epistemic Parity*
+  * *The Doxastic Divide* (Published via PhilArchive)
+
+### Business Ventures & Local Operations
+Alongside academic publication and theoretical modeling, Benjamin owns and operates local commercial enterprises serving the Columbus, Ohio community:
+* **Ruby Home and Hauling Services, Inc.:** Founded in 2012, providing professional, localized home management, logistical organization, and hauling solutions.
+* **Ben and Bri's Black RAVE Boutique LLC:** A specialized local boutique and apparel retail establishment.
+
+### Verified Professional Profiles
+* **Personal Website:** [benjaminruby.com](http://benjaminruby.com)
+* **Academic Repository:** [PhilPeople Profile](https://philpeople.org/profiles/ben-ruby)
+* **Research Uploads:** [Zenodo Workspace](https://zenodo.org/me/uploads)
+* **Professional Network:** [LinkedIn Profile](https://www.linkedin.com/in/benjamin-ruby-4344b090)
+
+
+
+
 <div>
 <script type="application/ld+json">
 {
