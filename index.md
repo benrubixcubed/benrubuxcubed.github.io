@@ -43,9 +43,6 @@
 </div>
 
 # Benjamin Ruby
-
-
-# Benjamin Ruby
 **Independent Researcher** | Computational Cognitive Science, Philosophy of Mind, & Analytic Epistemology
 Columbus, Ohio
 
