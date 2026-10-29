@@ -1,3 +1,4 @@
+<div>
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -37,6 +38,9 @@
   ]
 }
 </script>
+</div>
+
+# Benjamin Ruby
 
 
 # Benjamin Ruby
