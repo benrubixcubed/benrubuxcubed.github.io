@@ -1,3 +1,44 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Benjamin Ruby",
+  "url": "http://benjaminruby.com",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Columbus",
+    "addressRegion": "OH",
+    "addressCountry": "US"
+  },
+  "jobTitle": "Independent Researcher & Entrepreneur",
+  "description": "Benjamin Ruby is an independent computational cognitive science researcher and business owner based in Columbus, Ohio.",
+  "knowsAbout": [
+    "Computational Neuroscience",
+    "Active Inference",
+    "Predictive Processing",
+    "Thermodynamic State-Space Model",
+    "Analytic Epistemology"
+  ],
+  "hasOccupation": [
+    {
+      "@type": "Occupation",
+      "name": "Computational Cognitive Science Researcher"
+    },
+    {
+      "@type": "Occupation",
+      "name": "Commercial Operations Manager"
+    }
+  ],
+  "sameAs": [
+    "https://github.com",
+    "https://philpapers.org",
+    "https://philarchive.org",
+    "https://facebook.com"
+  ]
+}
+</script>
+
+
 # Benjamin Ruby
 **Independent Researcher** | Computational Cognitive Science, Philosophy of Mind, & Analytic Epistemology
 Columbus, Ohio
