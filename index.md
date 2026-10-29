@@ -31,10 +31,10 @@
     }
   ],
   "sameAs": [
-    "https://github.com",
-    "https://philpapers.org",
-    "https://philarchive.org",
-    "https://facebook.com"
+    "benrubixcubed.github.io",
+    "https://philpeople.org/profiles/ben-ruby/publications",
+    "https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest",
+    "https://www.facebook.com/share/1CEvjYsgzw/"
   ]
 }
 </script>
