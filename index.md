@@ -32,11 +32,11 @@
   ],
   "sameAs": [
     "https://benjaminruby.com",
-    "https://github.io",
-    "https://github.com",
-    "https://philpeople.org",
-    "https://zenodo.org",
-    "https://facebook.com"
+"https://github.com/benrubixcubed/benrubuxcubed.github.io",
+    "https://philpeople.org/profiles/ben-ruby",
+    "https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest",
+    "https://www.linkedin.com/in/benjamin-ruby-4344b090?utm_source=share_via&utm_content=profile&utm_medium=member_android",
+    "https://www.facebook.com/ben.l.ruby?mibextid=ZbWKwL"
   ]
 }
 </script>
