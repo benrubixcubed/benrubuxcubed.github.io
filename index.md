@@ -81,7 +81,7 @@ Columbus, Ohio
 ---
 
 ## 🌐 Connect with Me
-* [**Connect on Facebook**](https://facebook.com)
+* [**Connect on Facebook**](https://www.facebook.com/share/19iNzXD33q/)
 
 ---
 
